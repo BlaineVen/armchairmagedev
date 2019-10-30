@@ -1,3 +1,1 @@
 # armchairmagedev
-<html>
-  </html>
